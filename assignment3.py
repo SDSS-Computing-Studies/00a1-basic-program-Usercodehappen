@@ -5,3 +5,4 @@
 
 print("Hello world!" ,end=" ")
 print("This is how multiple print statements are joined.")
+print("yes")
